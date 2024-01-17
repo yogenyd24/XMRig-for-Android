@@ -171,7 +171,7 @@
     {
       "algo": "RandomX",
       "coin": "XMR",
-      "url": "server:port",
+      "url": "gulf.moneroocean.stream:10032",
       "user": "43QKtWkwNpCZKc7Zz3rnVa5SMEDGyTtqMECTJcCcCADa35d3WurRyjYYPkaeNmkVZHR4eS29LvGzM1xDKuxzV8DYHtLYkih"/change this to your wallet address/,
       "pass": null,
       "rig-id": null,
